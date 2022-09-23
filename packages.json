@@ -1,0 +1,12 @@
+[
+  {
+    "package" : "rmaven",
+    "url" : "https://github.com/terminological/rmaven",
+    "branch" : "*release"
+  }
+  {
+    "package": "dtrackr",
+    "url": "https://github.com/terminological/dtrackr",
+    "branch" : "*release"
+  }
+]
