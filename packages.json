@@ -8,5 +8,10 @@
     "package": "dtrackr",
     "url": "https://github.com/terminological/dtrackr",
     "branch" : "*release"
+  },
+  {
+    "package": "html2pdfr",
+    "url": "https://github.com/terminological/html2pdfr",
+    "branch" : "*release"
   }
 ]
