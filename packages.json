@@ -13,5 +13,21 @@
     "package": "html2pdfr",
     "url": "https://github.com/terminological/html2pdfr",
     "branch" : "*release"
+  },
+  {
+    "package": "ggrrr",
+    "url": "https://github.com/terminological/ggrrr",
+    "branch" : "*release"
+  },
+  {
+    "package": "testRapi",
+    "url": "https://github.com/terminological/r6-generator-docs",
+    "branch" : "*release"
+  },
+  { 
+    "package": "roogledocs",
+    "url": "https://github.com/terminological/roogledocs",
+    "branch" : "*release"
   }
+
 ]

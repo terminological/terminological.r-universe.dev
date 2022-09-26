@@ -9,6 +9,9 @@ rOpenSci universe development packages
 * dtrackr - flow charts of data pipelines
 * rmaven - Java build tools from within R
 * html2pdfr - Java based html to pdf conversion
+* testRapi - the documentation project for the R6-generator mave plugin
+* roogledocs - Java based googledocs client
+* ggrrr - Publication ready figures and table hacks 
 
 https://github.com/r-universe/terminological/actions
 
