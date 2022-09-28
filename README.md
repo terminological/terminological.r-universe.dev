@@ -12,6 +12,7 @@ rOpenSci universe development packages
 * testRapi - the documentation project for the R6-generator mave plugin
 * roogledocs - Java based googledocs client
 * ggrrr - Publication ready figures and table hacks 
+* arear - UK COVID centric geographic package including catchment area algorithm
 
 https://github.com/r-universe/terminological/actions
 

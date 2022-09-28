@@ -28,6 +28,11 @@
     "package": "roogledocs",
     "url": "https://github.com/terminological/roogledocs",
     "branch" : "*release"
+  },
+  { 
+    "package": "arear",
+    "url": "https://github.com/terminological/arear",
+    "branch" : "*release"
   }
 
 ]
