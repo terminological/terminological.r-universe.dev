@@ -33,6 +33,10 @@
     "package": "arear",
     "url": "https://github.com/terminological/arear",
     "branch" : "*release"
+  },
+  {
+    "package": "pkgtools",
+    "url": "https://github.com/terminological/pkgtools",
+    "branch" : "*release"
   }
-
 ]
