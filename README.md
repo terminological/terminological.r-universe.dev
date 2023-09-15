@@ -13,6 +13,7 @@ rOpenSci universe development packages
 * roogledocs - Java based googledocs client
 * ggrrr - Publication ready figures and table hacks 
 * arear - UK COVID centric geographic package including catchment area algorithm
+* pkgtools - functions for building R packages
 
 https://github.com/r-universe/terminological/actions
 
